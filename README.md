@@ -1,0 +1,2 @@
+# ninjasucc
+My suckless builds
